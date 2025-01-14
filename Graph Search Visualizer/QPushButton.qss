@@ -1,0 +1,30 @@
+QPushButton {
+    background-color: #5468ff;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-family: "Arial";
+    font-size: 18px;
+    /* padding: 16px; */
+    box-shadow: 2px 2px 2px 1px rgba(45, 35, 66, .4);
+}
+QPushButton:hover {
+    background-color: #5adaff;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-family: "Arial";
+    font-size: 18px;
+    padding: 16px;
+    box-shadow: 2px 2px 2px 1px rgba(45, 35, 66, .4);
+}
+QPushButton:pressed {
+    background-color: #3c4fe0;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-family: "Arial";
+    font-size: 18px;
+    padding: 16px;
+    box-shadow: 2px 2px 2px 1px rgba(45, 35, 66, .4);
+}
